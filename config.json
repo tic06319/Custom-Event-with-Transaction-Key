@@ -20,7 +20,7 @@
 		"configModal": {
 			"url": "index.html"
 		},
-		"summary2": [
+		"summary": [
 			{
 				"valuePath": "metaData.transactionKeys.0.from",
 				"label": "Transaction Key from"
