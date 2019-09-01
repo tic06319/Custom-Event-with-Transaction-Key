@@ -1,4 +1,12 @@
 {
+	 "metaData": {
+           "transactionKeys": {
+              "0": {
+                "from": "Event Property",
+                "to": "DE_Name.DE_Property"
+             }
+           }
+	 }
 	"key": "0a2ac947-4df8-4c48-a77c-4cedc2b85686",
 	"type": "Event",
 	"filterExpressionEnabled": true,
