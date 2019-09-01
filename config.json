@@ -10,7 +10,7 @@
 	},
 	"workflowApiVersion": "1.1",
 	"metaData":{
-	  "icon"=:"images/icon/png",
+	  "icon":"images/icon/png",
 	  "transactionKeys":{
 	     "0":{
 	       "from":"MGID",
