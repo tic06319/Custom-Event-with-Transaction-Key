@@ -1,12 +1,4 @@
 {
-   	 "metaData": {
-        	"transactionKeys": {
-            	"0": {
-                	"from": "MGID",
-                	"to": "Cop_Test_DE.MGID"
-               }
-       	     }
-   	   }
 	"key": "0a2ac947-4df8-4c48-a77c-4cedc2b85686",
 	"type": "Event",
 	"filterExpressionEnabled": true,
