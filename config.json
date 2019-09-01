@@ -1,5 +1,5 @@
 {
-	"key": "0a2ac947-4df8-4c48-a77c-4cedc2b85686",
+	"key": "5f2c7c00-2584-4342-a4fc-3c60d9bca744",
 	"type": "Event",
 	"filterExpressionEnabled": true,
 	"lang": {
@@ -10,7 +10,7 @@
 	},
 	"workflowApiVersion": "1.1",
 	"configurationArguments": {
-		"applicationExtensionKey": "0a2ac947-4df8-4c48-a77c-4cedc2b85686"
+		"applicationExtensionKey": "5f2c7c00-2584-4342-a4fc-3c60d9bca744"
 	},
 	"wizardSteps": [
 		{"key": "selectDataExtensionId", "label": "Select DE"},
