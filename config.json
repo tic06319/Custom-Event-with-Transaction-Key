@@ -9,7 +9,7 @@
 		}
 	},
 	"workflowApiVersion": "1.1",
-	"metaData':{
+	"metaData":{
 	  "icon"=:"images/icon/png",
 	  "transactionKeys":{
 	     "0":{
