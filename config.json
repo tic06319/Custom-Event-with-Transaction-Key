@@ -9,6 +9,15 @@
 		}
 	},
 	"workflowApiVersion": "1.1",
+	"metaData':{
+	  "icon"=:"images/icon/png",
+	  "transactionKeys":{
+	     "0":{
+	       "from":"MGID",
+	       "to":"Cop_Test_DE.MGID"
+           }
+         } 
+        }
 	"configurationArguments": {
 		"applicationExtensionKey": "5f2c7c00-2584-4342-a4fc-3c60d9bca744"
 	},
